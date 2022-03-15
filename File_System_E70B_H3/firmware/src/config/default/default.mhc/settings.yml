@@ -1,0 +1,14 @@
+configName: default
+folderName: File_System_E70B_H3
+format_version: v1.0
+frameworkPath: ../../Harmony3
+processor: ATSAME70Q21B
+projectName: File_System_E70B_H3
+settings:
+  PackageFilter: bsp;core_apps_sam_e70_s70_v70_v71;gfx_apps_sam_e70_s70_v70_v71;csp;csp_apps_sam_d5x_e5x;dev_packs;gfx;csp_apps_sam_d21_da1;quick_docs;core_apps_sam_d21_da1;usb_apps_device;core;usb;touch;audio;gfx_apps;usb_apps_host;Devices;core_apps_sam_d5x_e5x;csp_apps_sam_e70_s70_v70_v71
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: ./dev_packs/arm/CMSIS/5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: ./dev_packs/Microchip/SAME70_DFP/4.6.98/same70b/atdf/ATSAME70Q21B.atdf
