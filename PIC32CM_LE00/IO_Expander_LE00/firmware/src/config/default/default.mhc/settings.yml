@@ -1,0 +1,14 @@
+configName: default
+folderName: IO_Expander_LE00
+format_version: v1.0
+frameworkPath: ..\..\..\..\H3_MCC
+processor: PIC32CM5164LE00100
+projectName: IO_Expander_LE00
+settings:
+  PackageFilter: audio;bsp;core;core_apps_sam_a5d2;core_apps_sam_d21_da1;core_apps_sam_e70_s70_v70_v71;csp;csp_apps_sam_a5d2;csp_apps_sam_d21_da1;Devices;dev_packs;gfx;gfx_apps_sam_a5d2;gfx_apps_sam_e70_s70_v70_v71;harmony-services;mc_apps_pic32cm_mc;mc_apps_pic32mk;mc_apps_sam_c2x;mc_apps_sam_d5x_e5x;mc_apps_sam_e7x_s7x_v7x;mc_apps_sam_rh707;mc_apps_sam_rh71;motor_control;quick_docs;tflite-micro-apps;touch;usb;usb_apps_device;x2c
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32CM-LE_DFP\1.1.162\atdf\PIC32CM5164LE00100.atdf
